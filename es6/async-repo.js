@@ -7,4 +7,4 @@ async function getRepo(username, number) {
 	console.log(data)
 }
 
-getRepo('mikenguyen69', 5)
+getRepo('mikenguyen69', 1)
